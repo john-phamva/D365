@@ -32,4 +32,3 @@ else {
     alert("functionNoFi")
 };
 }
-
