@@ -29,7 +29,7 @@ if (position == "Admin") {
     alert("Function_kickingoff");
 }
 else {
-    alert("functionNoFire")
+    alert("functionNoFi")
 };
 }
 
